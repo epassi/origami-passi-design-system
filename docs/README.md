@@ -1,6 +1,6 @@
 # passi.design Origami System
 
-Utility patches for Origami Studio.
+Utility patches for Origami Studio. To install, open **passi.design.origami-system**.
 
 ### Device
 
