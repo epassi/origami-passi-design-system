@@ -8,6 +8,6 @@
   "author" : "Emilio Passi",
   "system" : "design.passi.origami",
   "name" : "passi.design",
-  "description" : "",
+  "description" : "Utility patches for touch gesture sensing and more.",
   "version" : "1.0"
 }
