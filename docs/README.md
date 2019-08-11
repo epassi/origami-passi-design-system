@@ -13,6 +13,12 @@ Output the device screen width.
 * **Screen Height**  
 Output the device screen height.
 
+* **D-pad**  
+Output a pulse for the directions of a 4-way controller.
+
+* **Thumbstick**
+Capture thumbstick direction from a Game Controller patch.
+
 * **Device is iPhone X**  
 Check if this device is an iPhone X. Use this to make layout accommodations for the notch.
 
@@ -57,5 +63,29 @@ Check for an up swipe.
 
 * **Swipe Down**  
 Check for a down swipe.
+
+### Utility
+
+* **Ticker**
+Count up or down between 0 and a maximum value, without wrapping.
+
+* **Anchor Picker**
+Output the most recently updated anchor input.
+
+* **Color Picker**
+Output the most recently updated color input.
+
+* **Number Picker**
+Output the most recently updated number input.
+
+* **Text Picker**
+Output the most recently updated text input.
+
+* **Image Picker**
+Output the most recently updated image input.
+
+* **Video Picker**
+Output the most recently updated video input.
+
 
 
