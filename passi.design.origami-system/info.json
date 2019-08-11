@@ -1,1 +1,1 @@
-{"icons":{"@2x":"icon@2x.png","-large@2x":"icon-large@2x.png","@1x":"icon.png","-large@1x":"icon-large.png"},"author":"Emilio Passi","system":"design.passi.origami","name":"passi.design","description":"Utility patches for touch gesture sensing and more.","version":"1.0"}
+{"author":"Emilio Passi","system":"design.passi.origami","shortName":"","version":"1.4","description":"Utility patches for touch gestures, game controllers, and more.","name":"passi.design","icons":{"@2x":"icon@2x.png","-large@2x":"icon-large@2x.png","@1x":"icon.png","-large@1x":"icon-large.png"}}

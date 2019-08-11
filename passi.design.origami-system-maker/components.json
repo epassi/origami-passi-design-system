@@ -1,159 +1,213 @@
 [
   {
-    "export" : false,
-    "identifier" : 12390032050633187410,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDistance.origami",
-    "name" : "Distance"
-  },
-  {
-    "export" : false,
-    "identifier" : 10739638094929797192,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDistance.origami",
-    "name" : "Touch Move"
-  },
-  {
-    "export" : false,
-    "identifier" : 13094457649928943293,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDistance.origami",
-    "name" : "Touch Start"
-  },
-  {
-    "export" : false,
-    "identifier" : 11745220943557025588,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeUp.origami",
-    "name" : "Swipe Direction"
-  },
-  {
-    "export" : false,
-    "identifier" : 11523436409192226407,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
-    "name" : "Touch End"
-  },
-  {
-    "export" : false,
-    "identifier" : 2532914971297009189,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
-    "name" : "Touch End"
-  },
-  {
-    "export" : false,
-    "identifier" : 600686149727242145,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
-    "name" : "Touch End"
-  },
-  {
-    "export" : false,
-    "identifier" : 11393062965715564377,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
-    "name" : "Touch End"
-  },
-  {
-    "export" : false,
-    "identifier" : 16054827481692567021,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
-    "name" : "Touch Start"
-  },
-  {
-    "export" : false,
-    "identifier" : 11629463285324075456,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchEnd.origami",
-    "name" : "Screen Size"
-  },
-  {
-    "export" : false,
-    "identifier" : 4261772075152670075,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeLeft.origami",
-    "name" : "Swipe Direction"
-  },
-  {
-    "export" : false,
-    "identifier" : 18050932933374843909,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeVertical.origami",
-    "name" : "Swipe Direction"
-  },
-  {
-    "export" : false,
-    "identifier" : 8638382654426256316,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchStart.origami",
-    "name" : "Screen Size"
-  },
-  {
-    "export" : false,
-    "identifier" : 10773274748242746266,
+    "export" : true,
+    "identifier" : 8768455392862809563,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeHorizontal.origami",
     "name" : "Swipe Direction"
   },
   {
-    "export" : false,
-    "identifier" : 7105128399927136996,
-    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDown.origami",
+    "export" : true,
+    "identifier" : 11948449332385512059,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeVertical.origami",
     "name" : "Swipe Direction"
   },
   {
-    "export" : false,
-    "identifier" : 5109962648086377950,
+    "export" : true,
+    "identifier" : 6030327992776191745,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Between"
   },
   {
-    "export" : false,
-    "identifier" : 642713963251378008,
+    "export" : true,
+    "identifier" : 16815361620326749623,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Between"
   },
   {
-    "export" : false,
-    "identifier" : 16587031471834148928,
+    "export" : true,
+    "identifier" : 10614973641474762514,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Between"
   },
   {
-    "export" : false,
-    "identifier" : 1558098647865317461,
+    "export" : true,
+    "identifier" : 8416394592855254259,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Between"
   },
   {
-    "export" : false,
-    "identifier" : 14407419813037217026,
+    "export" : true,
+    "identifier" : 3094780440508911685,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Between"
   },
   {
-    "export" : false,
-    "identifier" : 8547801062493482847,
+    "export" : true,
+    "identifier" : 3542088326825543912,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Touch End"
   },
   {
-    "export" : false,
-    "identifier" : 3865847658296823666,
+    "export" : true,
+    "identifier" : 16990313457625021489,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Touch End"
   },
   {
-    "export" : false,
-    "identifier" : 4854462406891933936,
+    "export" : true,
+    "identifier" : 12778881058020758895,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
+    "name" : "Touch End"
+  },
+  {
+    "export" : true,
+    "identifier" : 11935701381996503779,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Touch Move"
   },
   {
-    "export" : false,
-    "identifier" : 11754510687138501929,
+    "export" : true,
+    "identifier" : 6144607610126730014,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDirection.origami",
     "name" : "Touch Start"
   },
   {
-    "export" : false,
-    "identifier" : 13595784241130135238,
+    "export" : true,
+    "identifier" : 12163579659629228735,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDown.origami",
+    "name" : "Swipe Direction"
+  },
+  {
+    "export" : true,
+    "identifier" : 12769491827350841902,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchEnd.origami",
+    "name" : "Screen Size"
+  },
+  {
+    "export" : true,
+    "identifier" : 10936425685309799166,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeRight.origami",
     "name" : "Swipe Direction"
+  },
+  {
+    "export" : true,
+    "identifier" : 1659866435429366231,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeUp.origami",
+    "name" : "Swipe Direction"
+  },
+  {
+    "export" : true,
+    "identifier" : 8899028802267908475,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchStart.origami",
+    "name" : "Screen Size"
+  },
+  {
+    "export" : true,
+    "identifier" : 6314788568448931520,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeLeft.origami",
+    "name" : "Swipe Direction"
+  },
+  {
+    "export" : true,
+    "identifier" : 8391179034274983899,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.device.Dpad.origami",
+    "name" : "Thumbstick"
+  },
+  {
+    "export" : true,
+    "identifier" : 5347347446251456990,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
+    "name" : "Touch End"
+  },
+  {
+    "export" : true,
+    "identifier" : 10151012780567823722,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
+    "name" : "Touch End"
+  },
+  {
+    "export" : true,
+    "identifier" : 11999335930631559377,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
+    "name" : "Touch End"
+  },
+  {
+    "export" : true,
+    "identifier" : 16747366281623839763,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
+    "name" : "Touch End"
+  },
+  {
+    "export" : true,
+    "identifier" : 9411449557589817851,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.TouchMove.origami",
+    "name" : "Touch Start"
+  },
+  {
+    "export" : true,
+    "identifier" : 10455187947555905920,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDistance.origami",
+    "name" : "Distance"
+  },
+  {
+    "export" : true,
+    "identifier" : 6382670475676418047,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDistance.origami",
+    "name" : "Touch Move"
+  },
+  {
+    "export" : true,
+    "identifier" : 17457114696935155116,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami-system\/patches\/design.passi.origami.touch.SwipeDistance.origami",
+    "name" : "Touch Start"
+  },
+  {
+    "export" : false,
+    "identifier" : 6465686929291157833,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/angle-test.origami",
+    "name" : "Distance"
+  },
+  {
+    "export" : false,
+    "identifier" : 14768334718406146821,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/angle-test.origami",
+    "name" : "Opposite"
+  },
+  {
+    "export" : false,
+    "identifier" : 13394259059950679779,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/angle-test.origami",
+    "name" : "Opposite"
+  },
+  {
+    "export" : false,
+    "identifier" : 1417315881272894140,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/angle-test.origami",
+    "name" : "Touch Move"
+  },
+  {
+    "export" : true,
+    "identifier" : 3431954747014512028,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Anchor Picker"
   },
   {
     "export" : true,
     "identifier" : 10644570234824685324,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
     "name" : "Between"
+  },
+  {
+    "export" : true,
+    "identifier" : 12072988730831466564,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Color Picker"
+  },
+  {
+    "export" : true,
+    "identifier" : 1249337017188480386,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "D-pad"
   },
   {
     "export" : true,
@@ -166,6 +220,18 @@
     "identifier" : 6936630533582152291,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
     "name" : "Distance"
+  },
+  {
+    "export" : true,
+    "identifier" : 5668436298973073615,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Image Picker"
+  },
+  {
+    "export" : true,
+    "identifier" : 14955169586778020010,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Number Picker"
   },
   {
     "export" : true,
@@ -241,6 +307,24 @@
   },
   {
     "export" : true,
+    "identifier" : 1740717480215707461,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Text Picker"
+  },
+  {
+    "export" : true,
+    "identifier" : 6864798773569999421,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Thumbstick"
+  },
+  {
+    "export" : true,
+    "identifier" : 17460100285855438271,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Ticker"
+  },
+  {
+    "export" : true,
     "identifier" : 7923554873947285534,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
     "name" : "Touch End"
@@ -256,5 +340,11 @@
     "identifier" : 15217528226818463254,
     "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
     "name" : "Touch Start"
+  },
+  {
+    "export" : true,
+    "identifier" : 13094719223348775722,
+    "documentURL" : "file:\/\/\/Users\/epassi\/Dropbox\/Origami%20Studio\/Systems\/passi.design\/passi.design.origami",
+    "name" : "Video Picker"
   }
 ]
