@@ -2,7 +2,14 @@
 
 Utility patches for Origami Studio. To install, open **passi.design.origami-system**.
 
-### Device
+### New in Version 1.4
+* **D-pad** patch for game controllers
+* **Thumbstick** patch for game controllers
+* **Picker** patches that automatically output their most recently updated input
+* **Ticker** patch that counts up or down between 0 and a maximum value, without wrapping
+* Swipe direction patches now output pulses instead of booleans (thank you [doug-orchard](https://github.com/doug-orchard)]
+
+### Device Patches
 
 * **Screen Size**  
 Output the device screen size.
@@ -27,7 +34,7 @@ Check if this device is an iPhone X. Use this to make layout accommodations for 
 * **Between**  
 Check if a number exists within a range.
 
-### Math
+### Math Patches
 
 * **Distance**  
 Measure the distance between two positions.
@@ -35,7 +42,7 @@ Measure the distance between two positions.
 * **Opposite**  
 Invert the sign of a number.
 
-### Touch
+### Touch Patches
 
 * **Touch Start**  
 Output a pulse and position when touch starts.
@@ -64,7 +71,7 @@ Check for an up swipe.
 * **Swipe Down**  
 Check for a down swipe.
 
-### Utility
+### Utility Patches
 
 * **Ticker**  
 Count up or down between 0 and a maximum value, without wrapping.
