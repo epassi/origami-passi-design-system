@@ -7,7 +7,7 @@ Utility patches for Origami Studio. To install, open **passi.design.origami-syst
 * **Thumbstick** patch for game controllers
 * **Picker** patches that automatically output their most recently updated input
 * **Ticker** patch that counts up or down between 0 and a maximum value, without wrapping
-* Swipe direction patches now output pulses instead of booleans (thank you [doug-orchard](https://github.com/doug-orchard)]
+* Swipe direction patches now output pulses instead of booleans (thank you [doug-orchard](https://github.com/doug-orchard))
 
 ### Device Patches
 
